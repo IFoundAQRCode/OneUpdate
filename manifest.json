@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "2.18",
+  "versionCode": 21,
+  "versionName": "2.19",
   "file": "app-release.apk.enc",
-  "sha256": "c57d0288098f960a9fd3f18872086b7afa8275c70c05aa0d09fc29a5e59bccc8",
-  "publishedAt": "2026-09-13T17:22:18Z",
+  "sha256": "96f6c4d6d8de073bc3a5889e696eb8598c2e1cd436a961372aeff7a6df652da6",
+  "publishedAt": "2026-09-13T17:33:02Z",
   "alg": "RSA-OAEP-SHA256+AES-256-GCM"
 }
