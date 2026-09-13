@@ -1,0 +1,8 @@
+{
+  "versionCode": 19,
+  "versionName": "2.17",
+  "file": "app-release.apk.enc",
+  "sha256": "a83d02c37e77dd23ed1720fe9513192c25101befff5f36b067efcdd68860e256",
+  "publishedAt": "2026-09-13T17:16:55Z",
+  "alg": "RSA-OAEP-SHA256+AES-256-GCM"
+}
