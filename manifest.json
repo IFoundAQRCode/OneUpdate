@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "2.27",
+  "versionCode": 30,
+  "versionName": "2.28",
   "file": "app-release.apk.enc",
-  "sha256": "8e9d842fb96ed07576d4cce1940a04afe9644c0171f17462ac3b3d2eafc405d7",
-  "publishedAt": "2026-09-15T04:55:12Z",
+  "sha256": "33918e7e335f609f5f9d3becd3cf0e45eca01d65b75a531adc187ae5f117c572",
+  "publishedAt": "2026-09-15T10:43:10Z",
   "alg": "RSA-OAEP-SHA256+AES-256-GCM"
 }
