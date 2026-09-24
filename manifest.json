@@ -1,8 +1,8 @@
 {
-  "versionCode": 49,
-  "versionName": "2.47",
+  "versionCode": 50,
+  "versionName": "2.48",
   "file": "app-release.apk.enc",
-  "sha256": "43bb74f1ae3ab82041cfd7b6edd23e156782dbf035bff4201eecdf5dc739282f",
-  "publishedAt": "2026-09-24T05:35:18Z",
+  "sha256": "be96929e015bfedad2a351d312f31e73a76d431febf9c485fc210b3fd296565c",
+  "publishedAt": "2026-09-24T12:14:33Z",
   "alg": "RSA-OAEP-SHA256+AES-256-GCM"
 }
