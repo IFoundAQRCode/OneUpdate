@@ -1,8 +1,8 @@
 {
-  "versionCode": 54,
-  "versionName": "2.52",
+  "versionCode": 55,
+  "versionName": "2.53",
   "file": "app-release.apk.enc",
-  "sha256": "905daa9618a0332fae8060ee6c4f0781a155321830540d7b40d7f15191011a65",
-  "publishedAt": "2026-10-03T22:37:30Z",
+  "sha256": "35638fa9e5f093a020d4b7bbea8a2dd51205ad6e89afaed53cd41510954282d5",
+  "publishedAt": "2026-10-17T19:47:08Z",
   "alg": "RSA-OAEP-SHA256+AES-256-GCM"
 }
